@@ -1,8 +1,10 @@
-﻿/*
+/*
  * 项目名:      **系统
  * 文件名:      ChartNumber.java
  * 类名:        ChartNumber
  *
+ * Copyright (c) 2014 杭州时代银通软件有限公司
+ * 版权所有
  */
 package zh.romp.entity;
 
