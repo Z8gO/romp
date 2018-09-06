@@ -1,7 +1,10 @@
-﻿/*
+/*
  * 项目名:      romp系统
  * 文件名:      IndexPlants.java
  * 类名:        IndexPlants
+ *
+ * Copyright (c) 2014 杭州时代银通软件有限公司
+ * 版权所有
  */
 package zh.romp.service.user;
 
