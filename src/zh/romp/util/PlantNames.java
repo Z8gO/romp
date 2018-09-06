@@ -1,10 +1,7 @@
-/*
+﻿/*
  * 项目名:      romp系统
  * 文件名:      PlantNames.java
  * 类名:        PlantNames
- *
- * Copyright (c) 2014 杭州时代银通软件有限公司
- * 版权所有
  */
 package zh.romp.util;
 
